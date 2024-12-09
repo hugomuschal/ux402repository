@@ -1,6 +1,6 @@
 <mvc:View controllerName="studenthmu.com.sap.training.ux402.repository.ux402repository.controller.Detail"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-    <Page id="detailPage" title="Title">
+    <Page id="detailPage" title="Detail">
     </Page>
 </mvc:View>
